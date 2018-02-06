@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "965078717760",
+    "firebase_url": "https://huyhienfirebase.firebaseio.com",
+    "project_id": "huyhienfirebase",
+    "storage_bucket": "huyhienfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965078717760:android:ba5b40f65cc7b56d",
+        "android_client_info": {
+          "package_name": "com.example.admin.huyhienfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965078717760-nepi8etboqkg8hjqc40tuk1632h1u2lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACRedbCFEf3psRpvrRfPgTfx0LzHXM0mw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
